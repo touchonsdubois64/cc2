@@ -74,7 +74,7 @@ export const positions = [
     },
 
     {
-        id: 'zinar-01',
+        id: 'zinar-02',
         title: 'Zinar (Shakhmatnye Okonchaniya: Peshechnye, 1983)',
         fen: '5k2/1p6/pP2p3/Pp2P3/1P2P1p1/1K4P1/8/8 w - - 0 1',
         tags: {
@@ -118,7 +118,7 @@ export const positions = [
     },
 
     {
-        id: 'zinar-02',
+        id: 'zinar-01',
         title: 'Zinar (Shakhmatnye Okonchaniya: Peshechnye, 1983)',
         fen: '8/1p5k/1P2p3/1P2P3/4P1p1/5pP1/K4P2/8 w - - 0 1',
         tags: {
